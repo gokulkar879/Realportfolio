@@ -4,7 +4,7 @@ function Header() {
   return (
     <div className='header'>
         <div className='logo'>
-            <a>Gokul Karki</a>
+            <a href="#info">Gokul Karki</a>
         </div>
         <div className='buttons'>
             <a href="#tech">Tech-Stack</a>
