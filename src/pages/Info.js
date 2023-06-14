@@ -9,8 +9,8 @@ function Info() {
         <h3>Hi, I'm Gokul Karki</h3>
         <p>Full Stack Web Developer with a keen to learning new tech</p>
         <div className='info-btns'>
-          <a href=""><AiOutlineGithub /></a>
-          <a href=""><AiOutlineLinkedin /></a>
+          <a href="https://github.com/gokulkar879"><AiOutlineGithub /></a>
+          <a href="https://www.linkedin.com/in/gokul-karki-05973817a/"><AiOutlineLinkedin /></a>
         </div>
       </div>
       <div className='info-right'>
