@@ -1,5 +1,6 @@
 import React from 'react';
 import { AiOutlineGithub, AiOutlineLinkedin } from 'react-icons/ai';
+import Gk from '../gk.jpg';
 
 function Info() {
   return (
@@ -15,7 +16,7 @@ function Info() {
       <div className='info-right'>
         <div className='center'>
         </div>
-        <img src="https://imgd.aeplcdn.com/1056x594/n/cw/ec/44686/activa-6g-right-front-three-quarter.jpeg?q=75"></img>
+        <img src={Gk}></img>
       </div>
     </div>
   )
