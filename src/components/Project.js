@@ -8,7 +8,7 @@ function Project({project}) {
         </div>
         <div className='project-right'>
             <h4>{project.name}</h4>
-            <p>{project.description}</p>
+            <p>{project.description.map((desc, ind) => <p key={ind}><span style={{fontSize: "1.1rem", marginRight: "5px"}}>*</span>{desc}</p>)}</p>
 
             <div className='tech-stack'>
                 {

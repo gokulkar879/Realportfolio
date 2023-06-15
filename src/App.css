@@ -23,6 +23,7 @@
   right: 0;
   box-shadow: 0 0 10px 10px rgba(45, 46, 46, 0.647);
   margin-bottom: 80px;
+  z-index: 100;
 }
 
 .header .logo {
